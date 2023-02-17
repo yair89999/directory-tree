@@ -3,11 +3,9 @@ a code that gets a path and generates a directory tree
 
 
 Output example:
-
+<pre>
 ...\explore stars game jam 2021\
-
 │
-
 ├── air planet enemy spaceship.png
 ├── air planet spaceship.png
 ├── astroid.png
@@ -34,3 +32,4 @@ Output example:
 ├── venus planet bg.png
 ├── water planet bg.png
 └── water planet water bg.png
+</pre>

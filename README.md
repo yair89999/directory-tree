@@ -2,7 +2,7 @@
 a code that gets a path and generates a directory tree
 
 
-Output example:
+<h3>Output example:</h3>
 <pre>
 ...\explore stars game jam 2021\
 │

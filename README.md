@@ -1,4 +1,7 @@
 # directory-tree
+
+A simple easy cool project to finish in the weekend
+
 A code that takes as an input a directory path and generates a tree by what is inside the directory
 
 <h3>Output example:</h3>

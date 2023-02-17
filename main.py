@@ -6,7 +6,7 @@ print("\n\n\n")
 
 # the idea is from "https://realpython.com/directory-tree-generator-python/"
 
-checking_path = "C:\\Users\\יאיר מזרחי\\games and projects"
+checking_path = "" # optional(can place the path in the input, next line)
 checking_path = input("Enter the folder's path(the full path):\n")
 
 os.chdir(checking_path)

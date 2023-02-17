@@ -1,6 +1,5 @@
 # directory-tree
-a code that gets a path and generates a directory tree
-j
+A code that takes as an input a directory path and generates a tree by what is inside the directory
 
 <h3>Output example:</h3>
 <pre>
